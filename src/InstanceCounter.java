@@ -1,13 +1,13 @@
 public class InstanceCounter {
-    private static int instances = 0;
-    protected static int getInstances(){
+    private static int instances = 0;//class Variables
+    protected static int getInstances(){//return method
         return instances;
     }
-    private static void setInstances(){
+    private static void setInstances(){//value set method
         instances++;
     }
     InstanceCounter(){
-        InstanceCounter.setInstances();
+        InstanceCounter.setInstances();//constructor to add instance
     }
 
     public static void main(String[] args) {
