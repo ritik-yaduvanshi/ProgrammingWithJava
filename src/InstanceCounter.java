@@ -1,5 +1,5 @@
 public class InstanceCounter {
-    private static int instances = 0;//class Variable
+    private static int instances = 0;//class Variables
     protected static int getInstances(){//return method
         return instances;
     }
