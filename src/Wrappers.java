@@ -14,7 +14,7 @@ public class Wrappers {
 
         //Converting this data into Object data (It is called AutoBoxing)
         Integer objValue = new Integer(value);//int to Integer conversion explicitly
-        //You may simple use
+        //You may use simply
         Integer ObjValue = value;
         Long BigValue = bigValue;
         Character character = ch;
@@ -27,7 +27,7 @@ public class Wrappers {
 
         ///Converting Object to Primitive (It is Called UnBoxing)
         int newNumber = num.intValue();//Converting Integer to int explicitly
-        //You may simple use
+        //You may use simply
         int newNum = num;
         char chars1 = chars;
         long values1 = Values;
