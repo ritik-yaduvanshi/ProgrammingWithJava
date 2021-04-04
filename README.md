@@ -1,3 +1,3 @@
 # ProgrammingWithJava
 This is a Basic Source Code File Of Java Programming.
-Here you will learn how to implement all basic concept like a identifier,method,constructor with OOP Concept from Basic to End.
+Here I have implemented all basic concept like a Basic-Syntax,identifier,method,constructor,object-creation,Operators,Decison-Making,Loop-Control And Number Class etc.
